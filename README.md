@@ -1,4 +1,4 @@
-# This project model can detect ten bangla alphabet in real time using kinect depth camera.This was done as an undergraduate research work.
+# This project model can detect bangla alphabet sign in real time using kinect depth camera.This was done as an undergraduate research work.
 
 1.First Train the SVM Classifier using train.m. Save the train and test data in "data" directory under the names "train","test" respectively.\
 2.You can test the model using test.m\
